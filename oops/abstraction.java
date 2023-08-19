@@ -16,15 +16,6 @@ abstract class b extends alpha{
 }
 public class abstraction {
     public static void main(String[] args) {
-        
-        a info = new  A() {
-
-            @Override
-            void fun() {
-                // TODO Auto-generated method stub
-                throw new UnsupportedOperationException("Unimplemented method 'fun'");
-            }
-            
-        };
+    
     }
 }
